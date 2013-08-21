@@ -1,0 +1,17 @@
+{
+  "name": "on-enter",
+  "repo": "segmentio/on-enter",
+  "description": "Attach an enter key handler.",
+  "version": "0.0.1",
+  "keywords": ["enter", "key", "bind", "unbind", "handler"],
+  "dependencies": {
+    "component/event": "*",
+    "component/indexof": "*"
+  },
+  "development": {
+    "component/assert": "*",
+    "ianstormtaylor/trigger-event": "*"
+  },
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
